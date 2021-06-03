@@ -1,6 +1,6 @@
 # digital_world_clock
 
-#### This is a flutter app built to show the time of different locations in the world.
+#### This is a flutter app built to show the time of different locations in the world  `just for fun learning`
 
 
 ### Screenshots
