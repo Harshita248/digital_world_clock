@@ -5,8 +5,8 @@
 
 ### Screenshots
 
-![Places UI](/places.png){width="200} 
-![Location UI](/location.png){width="200}
+![Places UI](/places.png){width="200"} 
+![Location UI](/location.png){width="200"}
 
 ## Getting Started
 
